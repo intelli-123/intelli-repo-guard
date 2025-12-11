@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+ai_repoguard_*
+
 # C extensions
 *.so
 
