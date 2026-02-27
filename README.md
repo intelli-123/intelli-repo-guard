@@ -1,5 +1,9 @@
 # 🛡️ AI-Repoguard: Hybrid Security Scanner
+```
+##⚠️ Disclaimer
 
+This tool utilizes a Large Language Model (LLM) to identify potential security risks. While it is highly capable, AI can produce false positives or miss complex, multi-file vulnerabilities. This tool is meant to assist developers and security researchers, not to replace professional security audits or dedicated SAST/DAST enterprise software.
+```
 # 1. Overview
 
 AI-Repoguard is a powerful, command-line security auditing tool that provides a comprehensive analysis of Git repositories. It combines two critical security methodologies:
