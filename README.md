@@ -2,7 +2,9 @@
 ```
 ##⚠️ Disclaimer
 
-This tool utilizes a Large Language Model (LLM) to identify potential security risks. While it is highly capable, AI can produce false positives or miss complex, multi-file vulnerabilities. This tool is meant to assist developers and security researchers, not to replace professional security audits or dedicated SAST/DAST enterprise software.
+This tool utilizes a Large Language Model (LLM) to identify potential security risks. While it is highly capable, AI can produce false positives
+or miss complex, multi-file vulnerabilities. This tool is meant to assist developers and security researchers, not to replace professional
+security audits or dedicated SAST/DAST enterprise software.
 ```
 # 1. Overview
 
